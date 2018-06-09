@@ -4,3 +4,7 @@
                 - check exactly the time where the TP level appears. 
             b. Minimizing risk by adjusting ATR. 
             C. Maximizing wins by adding more entries.
+            d. Matplotlib visualizations
+
+    2. Robot Advisor
+            a. Using C++ and built in drag and drap app from MT5
