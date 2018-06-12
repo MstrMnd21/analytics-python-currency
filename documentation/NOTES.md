@@ -9,3 +9,5 @@
 
     2. Robot Advisor
             a. Using C++ and built in drag and drap app from MT5
+
+    3. Test notes for git expl
