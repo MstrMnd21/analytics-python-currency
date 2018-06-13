@@ -12,3 +12,4 @@
 
     3. Test notes for git expl
             - testing pull
+            - test odf
