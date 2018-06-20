@@ -18,3 +18,4 @@
 #### - 2018.06.20
 *       1. Fix data reshape process
 *       2. Codes must be flexible and variable for time
+*       3. Only 54% win rate for sell trades and this may not be accurate because there are a lot of NaN fields in the dataset. We need to redo the csv loading. 
