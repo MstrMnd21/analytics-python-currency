@@ -1,6 +1,6 @@
 ### Codewright Notes
     
-#### - 2018.06.12
+#### 2018.06.12
 *    1. The next versions will be about: 
 *            a. Maximizing the length of pip wins. 
 *                - check exactly the time where the TP level appears. 
@@ -15,7 +15,14 @@
 *    3. Test notes for git expl
             - testing pull
             - test odf
-#### - 2018.06.20
+#### 2018.06.20
 *       1. Fix data reshape process
 *       2. Codes must be flexible and variable for time
 *       3. Only 54% win rate for sell trades and this may not be accurate because there are a lot of NaN fields in the dataset. We need to redo the csv loading. 
+
+#### Version Plan | V1.3.0
+*   - Win/loss rate for TP occurences within 3 hours after the entry
+
+#### Version Plan | V2.0.0
+*   - Use visuals
+*   - Quantify the risk
