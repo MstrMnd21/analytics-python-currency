@@ -20,6 +20,11 @@
 *       2. Codes must be flexible and variable for time
 *       3. Only 54% win rate for sell trades and this may not be accurate because there are a lot of NaN fields in the dataset. We need to redo the csv loading. 
 
+#### Version Plan | V1.2.0
+*   - Quantify the number of losing trades
+*   - Chart out the win/loss rate on a monthly basis
+*   - Disect the characteristics (features) of a losing trade
+
 #### Version Plan | V1.3.0
 *   - Win/loss rate for TP occurences within 3 hours after the entry
 

@@ -17,16 +17,6 @@
 #### Insights
 *   - This version resulted to reducing the pip target between 6 pips to 8 pips for addditional             percentage win. 
 
-#### V1.2.0 | Under Development
-*   - Quantify the number of losing trades
-*   - Chart out the win/loss rate on a monthly basis
-*   - Disect the characteristics (features) of a losing trade
 
-#### V1.3.0 | Under Development
-*   - Win/loss rate for TP occurences within 3 hours after the entry
-
-#### V2.0.0 | Under Development
-*   - Use visuals
-*   - Quantify the risk
 
 
