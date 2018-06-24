@@ -1,7 +1,8 @@
 # NOSTRADAMUS
 *   Git Location: https://gitlab.com/TheInceptors/finmark/Nostradamus.git
+*   A prediction model for USD/CHF pair based on pre-London session sentiment.
 
-## INSIGHTS MODULE DESCRIPTIONS
+### INSIGHTS MODULE DESCRIPTIONS
 *   Module 1 - Win/Loss ratio based on daily high and low 
 *   Module 2 - Win/Loss ration based on 08:00 and 09:00 highs and lows
 
