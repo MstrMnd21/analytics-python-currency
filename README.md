@@ -17,6 +17,9 @@
 #### Insights
 *   This version resulted to reducing the pip target between 6 pips to 8 pips for addditional             percentage win. 
 
+#### V1.2.0 | Release date: 2018.06.24
+*   Take profit hours within 2 hours or from 07:00 to 09:00
 
-
+#### Insights
+*   This analysis resulted to prudently exit within 2 hours. This will further reduce the risk. 
 
