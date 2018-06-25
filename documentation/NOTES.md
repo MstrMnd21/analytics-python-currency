@@ -26,12 +26,15 @@
 *   - Classify a losing trade and a winning trade 
 
 #### Version Plan | V1.3.0
-*   - Win/loss rate for TP occurences within 3 hours after the entry (Done for V1.2.0)
+*   - Win/loss rate for TP occurences within 3V1. hours after the entry (Done for V1.2.0)
 *   - Win/loss rate monthly
 *   - Data integrity check system
 *   - Algorithm check system
 *   - Quantify the number of losing trades
 *   - Disect the characteristics (features) of a losing trade
+
+#### Version Plan | V1.3.2
+*   - Dissect the losing trade characteristics
 
 #### Version Plan | V1.4.0
 *   - C++ Simulation EA
@@ -39,3 +42,4 @@
 #### Version Plan | V2.0.0
 *   - Use visuals
 *   - Quantify the risk
+
