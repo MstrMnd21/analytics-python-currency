@@ -32,6 +32,10 @@
 *   - Quantify the number of losing trades
 *   - Disect the characteristics (features) of a losing trade
 
+#### Version Plan | V1.4.0
+*   - C++ Simulation EA
+
+
 #### Version Plan | V2.0.0
 *   - Use visuals
 *   - Quantify the risk

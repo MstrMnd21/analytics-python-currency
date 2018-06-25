@@ -14,7 +14,7 @@
 #### Insights
 *   The 90% win/loss percentage makes it worth to use this prediction model.
 
-#### V1.1.0 | Release date: 2018.06.23
+#### V1.2.0 | Release date: 2018.06.23
 *   More data feeds
 *   Adjustable TP 
 *   Basis of entry: 00:00 Open Price to 07:00 Close Price
@@ -22,7 +22,7 @@
 #### Insights
 *   This version resulted to reducing the pip target between 6 pips to 8 pips for addditional             percentage win. 
 
-#### V1.2.0 | Release date: 2018.06.24
+#### V1.3.0 | Release date: 2018.06.24
 *   Take profit hours within 2 hours or from 07:00 to 09:00
 *   Module 2 was born.
 
