@@ -2,7 +2,7 @@
 *   Git Location: https://gitlab.com/TheInceptors/finmark/Nostradamus.git
 *   A prediction model for USD/CHF pair based on pre-London session sentiment.
 
-### INSIGHTS MODULE DESCRIPTIONS
+### ANALYTICS MODULE DESCRIPTIONS
 *   Module 1 - Win/Loss ratio based on daily high and low 
 *   Module 2 - Win/Loss ration based on 08:00 and 09:00 highs and lows
 
@@ -30,11 +30,11 @@
 *   This analysis resulted to prudently exit within 2 hours. This will further reduce the risk. 
 
 #### V1.3.1 | Release date: 2018.06.25
-*   Take profit setting at 12:00 and 17:00
+* Take profit setting at 12:00 and 17:00
 
 #### Insights
-*   Here's the win/loss ratio for floating the position at:
-*       - Up to 09:00 | approx 45% for both long/short and buy/sell positions
-*       - Up to 12:00 | approx 73% for both long/short and buy/sell positions
-*       - Up to 14:00 | approx 76% for both long/short and buy/sell positions
-*       - Up to 17:00 | approx 83% for both long/short and buy/sell positions
+* Here's the win/loss ratio for floating the position at:
+*     Up to 09:00 | approx 45% for both long/short and buy/sell positions
+*     Up to 12:00 | approx 73% for both long/short and buy/sell positions
+*     Up to 14:00 | approx 76% for both long/short and buy/sell positions
+*     Up to 17:00 | approx 83% for both long/short and buy/sell positions

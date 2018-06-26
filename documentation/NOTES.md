@@ -23,6 +23,7 @@
 #### Version Plan | V1.2.0
 *   - Chart out the win/loss rate on a monthly basis
 *   - Disect the characteristics (features) of a losing trade
+*   - Classify a losing trade and a winning trade 
 
 #### Version Plan | V1.3.0
 *   - Win/loss rate for TP occurences within 3V1. hours after the entry (Done for V1.2.0)
