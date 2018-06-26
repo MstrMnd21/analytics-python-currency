@@ -34,12 +34,19 @@
 
 #### Version Plan | V1.3.2
 *   - Dissect the losing trade characteristics
+*       >> Choose and pick the index and the features
+*       >> Try to scan it's common characteristics / features
+
+#### Version Plan | V1.3.3
+*   - Dissecting win rate per month
 
 #### Version Plan | V1.4.0
 *   - C++ Simulation EA
 
-
 #### Version Plan | V2.0.0
 *   - Use visuals
 *   - Quantify the risk
+
+## 2018.06.26
+*   Reference: https://www.mql5.com/en/articles/35
 
