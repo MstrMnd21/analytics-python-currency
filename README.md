@@ -30,7 +30,7 @@
 *   This analysis resulted to prudently exit within 2 hours. This will further reduce the risk. 
 
 #### V1.3.1 | Release date: 2018.06.25
-* Take profit setting at 12:00 and 17:00
+*   Take profit setting at 12:00 and 17:00
 
 #### Insights
 * Here's the win/loss ratio for floating the position at:
@@ -39,5 +39,7 @@
 *     Up to 14:00 | approx 76% for both long/short and buy/sell positions
 *     Up to 17:00 | approx 83% for both long/short and buy/sell positions
 
-#### V2.0.0 |
-*     Close 0:00 -> Close 09:00 as the direction setter + Pearson
+#### V2.0.0 | Release date: 2018.07.11
+*   Entry basis changed to Close 00:00 - Close 09:00
+*   Entry with congruence with Pearson
+*   Exit within 2 hours thereafter
