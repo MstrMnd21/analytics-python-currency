@@ -38,3 +38,6 @@
 *     Up to 12:00 | approx 73% for both long/short and buy/sell positions
 *     Up to 14:00 | approx 76% for both long/short and buy/sell positions
 *     Up to 17:00 | approx 83% for both long/short and buy/sell positions
+
+#### V2.0.0 |
+*     Close 0:00 -> Close 09:00 as the direction setter + Pearson

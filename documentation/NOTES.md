@@ -50,4 +50,5 @@
 
 ## 2018.06.26
 *   Reference: https://www.mql5.com/en/articles/35
+*   Reference | Much simpler: https://www.mql5.com/en/articles/100
 
