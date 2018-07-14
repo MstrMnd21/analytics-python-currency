@@ -34,7 +34,10 @@
 
 #### Insights
 * Here's the win/loss ratio for floating the position at:
-*     Up to 09:00 | approx 45% for both long/short and buy/sell positions
-*     Up to 12:00 | approx 73% for both long/short and buy/sell positions
-*     Up to 14:00 | approx 76% for both long/short and buy/sell positions
-*     Up to 17:00 | approx 83% for both long/short and buy/sell positions
+    1. Up to 09:00 | approx 45% for both long/short and buy/sell positions and supersedes previous error result (Module 2) 
+    2. Up to 12:00 | approx 73% for both long/short and buy/sell positions (Module 3)
+    3. Up to 14:00 | approx 76% for both long/short and buy/sell positions (Module 4)
+    4. Up to 17:00 | approx 83% for both long/short and buy/sell positions (Module 5)
+    5. Up to one whole day | approx 91% for both long/short and buy/sell positions (Module 1)
+* Here's the risk strategy for the said win/loss ratio: 
+    1. 
