@@ -1,4 +1,4 @@
-# NOSTRADAMUS
+# CURRENCY ANALYTICS PRE-LONDON
 *   A prediction model for USD/CHF pair based on pre-London session sentiment.
 
 ### ANALYTICS MODULE DESCRIPTIONS
