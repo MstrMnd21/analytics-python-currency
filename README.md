@@ -1,5 +1,4 @@
 # NOSTRADAMUS
-*   Git Location: https://gitlab.com/TheInceptors/finmark/Nostradamus.git
 *   A prediction model for USD/CHF pair based on pre-London session sentiment.
 
 ### ANALYTICS MODULE DESCRIPTIONS
@@ -49,7 +48,7 @@
 *   In itself, it is a trading style and should not be mixed with other predictive models. 
 *   To reduce further the risk, compounding shall be made only every month. 
 *   90% Win/Loss rate for both positions 
-*   Lot size must be maximum at 0.01 per $10 capital
+*   Lot size must be maximum at 0.01
 *   Strict 8 pips take profit level. 
 *   Entries are at 1pm or 07:00
 
