@@ -1,4 +1,4 @@
-# CURRENCY ANALYTICS PRE-LONDON
+# CURRENCY ANALYTICS LONDON
 *   A prediction model for USD/CHF pair based on pre-London session sentiment.
 
 ### ANALYTICS MODULE DESCRIPTIONS
